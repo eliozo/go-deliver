@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Produktu piegāde</string>
+    <string name="login">Pieslēgties</string>
+    <string name="register">Reģistrēties</string>
+    <string name="my_orders">Mani pasūtījumi</string>
+    <string name="my_deliveries">Manas piegādes</string>
+    <string name="new_order">Jauns pasūtījums</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="username">Lietotājvārds</string>
+    <string-array name="shop_array">
+        <item>Choose shop!</item>
+        <item>Shop 1</item>
+        <item>Shop 2</item>
+        <item>Shop 3</item>
+    </string-array>
+</resources>
